@@ -37,6 +37,12 @@ $ cd Documents
 ~$ mv pad.md ~/Documents
 ~$ cd ~/Desktop
 ~$ mkdir work
+~$ cp pad.md ~/Desktop/work
+~$ ls
+~$ cd ~/
+~$ cd Desktop
+~$ cd work
+~$ ls
 ~$ cp pad.md pad_copy.md
 ~$ locate updatedb
 ~$ cd 
