@@ -109,8 +109,8 @@ $ ls
 # Save the file and close the editor
 
 #3
-$ mkdir my_files.md
-$ mv my_bio.md my_files.md
+$ mkdir my_files
+$ mv my_bio my_files.md
 $ ls
 
 
