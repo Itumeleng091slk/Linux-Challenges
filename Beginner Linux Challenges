@@ -97,7 +97,7 @@ Task: 6 Find commands
 ~$ cat resultspdf
 
 #3
-~$ find . type f -newrmt 2020-01-16 -ls # file is modified specifically for the day the code was executed ex:16 January 2020
+~$ find . type f -newermt 2020-01-16 -ls # file is modified specifically for the day the code was executed ex:16 January 2020
 
 Task 7: Text editor
 
