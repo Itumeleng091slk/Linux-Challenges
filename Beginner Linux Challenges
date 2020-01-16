@@ -45,7 +45,7 @@ $ cd Documents
 ~$ ls
 ~$ cp pad.md pad_copy.md
 ~$ locate updatedb
-~$ cd 
+~$ cd -
 ~$ locate pad_copy.md
 ~$ ls
 
